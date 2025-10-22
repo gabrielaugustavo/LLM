@@ -1,3 +1,2 @@
-# LLM
 
-Repositório dedicado ao estudo de Large Language Model.
+# Repositório dedicado ao estudo de Large Language Model.
